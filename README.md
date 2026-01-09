@@ -1,0 +1,2 @@
+# pingassiteassets
+cdn shit
